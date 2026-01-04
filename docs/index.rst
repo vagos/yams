@@ -1,8 +1,7 @@
 yamu: the game collection organizer
 ====================================
 
-Welcome to the documentation for yamu, a game library manager inspired by
-beets' focus on human-in-the-loop organization.
+Welcome to the documentation for yamu, an extensible game library manager for geeks who love their collections.
 
 If you're new to yamu, begin with the :doc:`guides/main` guide. That guide
 walks you through installing yamu, setting it up, and importing your library.
